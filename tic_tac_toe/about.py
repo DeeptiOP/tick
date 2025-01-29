@@ -12,7 +12,7 @@ def show_about():
 
     st.sidebar.header("👩‍💻 About the Developer")
     st.sidebar.write("""Hello Everyone 👋 I am Deeptimayee Pradhan, a web developer. I have recently graduated with a B.Tech in Computer Science and Engineering.""")
-    st.sidebar.image("cmsoon.png")
+    st.sidebar.image("tic_tac_toe/cmsoon.png")
 
     st.sidebar.header("📬 Contact & Connect")
     st.sidebar.write("""
