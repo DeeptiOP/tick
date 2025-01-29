@@ -1,6 +1,6 @@
 # 🎉 Tic Tac Toe Online Game 🎉
 
-![Tic Tac Toe Logo](URL_OF_CHOSEN_LOGO)
+![Tic Tac Toe Logo](https://github.com/DeeptiOP/tick/edit/main/README.md)
 
 Welcome to the **Tic Tac Toe Online Game**! This project is a web-based implementation of the classic Tic Tac Toe game, built using Python and the Streamlit framework. Challenge your friends or an AI in this fun and interactive game. Enjoy a modern interface and seamless gameplay experience right in your web browser.
 
@@ -17,17 +17,15 @@ Welcome to the **Tic Tac Toe Online Game**! This project is a web-based implemen
 1. **Online Mode**: Click [here](https://example.com/join-game) to join a match via link.
 2. **Offline Mode**: Simply start a game and choose to play against AI or another player.
 
-## 📸 Screenshot
-
-![Gameplay Screenshot](URL_OF_CHOSEN_IMAGE)
-
 ## 🎥 Animated Preview
 
-![Animated Preview](URL_OF_CHOSEN_ANIMATED_GIF)
+![Animated Preview](![image](https://github.com/user-attachments/assets/6d180cb8-cbcd-44ed-a04b-28632dac69f3)
+)
 
 ## 🎬 Short Video
 
-[![Short Video](URL_OF_CHOSEN_VIDEO_THUMBNAIL)](URL_OF_CHOSEN_VIDEO)
+[![Short Video](![image](https://github.com/user-attachments/assets/ae0fa60e-73e3-4b40-b609-347b6b792201)
+)](https://tic-tac-toe-gem.streamlit.app/?embed_options=show_footer,show_toolbar,show_padding,show_colored_line)
 
 ## 🛠️ Installation
 
