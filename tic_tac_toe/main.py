@@ -169,6 +169,5 @@ if 'session_id' in st.session_state:
         """, key="fireworks")
 
 st.markdown(CSS_STYLE, unsafe_allow_html=True)
-st_javascript("https://cdn.jsdelivr.net/npm/canvas-confetti@1.4.0/dist/confetti.browser.min.js")
 
 show_about()
