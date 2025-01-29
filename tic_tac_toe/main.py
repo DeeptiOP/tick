@@ -83,7 +83,7 @@ def share_match():
 current_url = st_javascript("window.location.href")
 
 st.title("Tick")
-st.logo(image="logotris-min.png", size="large", link="https://playtris.streamlit.app", icon_image="logotris-min.png")
+st.logo(image="tic_tac_toe/logotris-min.png", size="large", link="https://playtris.streamlit.app", icon_image="logotris-min.png")
 
 st.markdown("*A Tic Tac Toe Multiplayer game*")
 
