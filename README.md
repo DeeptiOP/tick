@@ -41,14 +41,6 @@ To run this game locally, follow these steps:
     ```bash
     pip install -r requirements.txt
     ```
-
-https://github.com/user-attachments/assets/463a0bb7-7247-456e-9dbd-8c859d90f62e
-
-
-
-https://github.com/user-attachments/assets/4cbae9ca-083b-4ee7-8e17-ed07c78ab172
-
-
 4. Run the Streamlit app:
     ```bash
     streamlit run app.py
