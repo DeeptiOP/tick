@@ -1,6 +1,5 @@
 # 🎉 Tic Tac Toe Online Game 🎉
-
-![logotris-min](https://github.com/user-attachments/assets/07ce23ae-9220-45dc-ad91-474c4cd9ab52
+<img src="https://github.com/user-attachments/assets/6cceb8dc-a49c-4be5-bdc6-7db617e74c05" alt="Tic Tac Toe Logo" width="100"/>
 
 Welcome to the **Tic Tac Toe Online Game**! This project is a web-based implementation of the classic Tic Tac Toe game, built using Python and the Streamlit framework. Challenge your friends or an AI in this fun and interactive game. Enjoy a modern interface and seamless gameplay experience right in your web browser.
 
