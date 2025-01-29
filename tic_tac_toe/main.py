@@ -8,7 +8,7 @@ from about import show_about
 from game import game_board, get_game_sessions, initialize_game
 from style import CSS_STYLE
 
-st.set_page_config(page_title="Tick Multiplayer - Tic Tac Toe with Streamlit", page_icon="logotris-min.png", layout="wide", initial_sidebar_state="collapsed")
+st.set_page_config(page_title="Tick Multiplayer - Tic Tac Toe with Streamlit", page_icon="C:/tic_tac_toe/logotris-min.png", layout="wide", initial_sidebar_state="collapsed")
 
 def join_game(session_id):
     game_sessions = get_game_sessions()
@@ -169,5 +169,6 @@ if 'session_id' in st.session_state:
         """, key="fireworks")
 
 st.markdown(CSS_STYLE, unsafe_allow_html=True)
+st_javascript("https://cdn.jsdelivr.net/npm/canvas-confetti@1.4.0/dist/confetti.browser.min.js")
 
 show_about()
