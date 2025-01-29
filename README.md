@@ -14,12 +14,12 @@ Welcome to the **Tic Tac Toe Online Game**! This project is a web-based implemen
 
 ## 🚀 How to Play
 
-1. **Online Mode**: Click [here](https://example.com/join-game) to join a match via link.
+1. **Online Mode**: Click [here](https://tic-tac-toe-gem.streamlit.app/) to join a match via link.
 2. **Offline Mode**: Simply start a game and choose to play against AI or another player.
 
 ## 🎥 Animated Preview
 
-![Animated Preview](![image](https://github.com/user-attachments/assets/6d180cb8-cbcd-44ed-a04b-28632dac69f3)
+![Screenshot](![image](https://github.com/user-attachments/assets/6d180cb8-cbcd-44ed-a04b-28632dac69f3)
 )
 
 ## 🎬 Short Video
